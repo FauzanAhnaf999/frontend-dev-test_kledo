@@ -108,6 +108,18 @@ Styling aplikasi menggunakan Tailwind CSS dengan:
 - Filter cascading memastikan bahwa hanya kota/kabupaten dan kecamatan yang terkait dengan provinsi yang dipilih yang ditampilkan
 - Aplikasi responsive dan dapat diakses dari perangkat mobile hingga desktop
 
+## Kesan dan Pesan Singkat
+
+Saya sangat senang bisa mengerjakan frontend dev assessment ini dari Kledo. Proyek ini memberikan tantangan yang menarik dalam membuat filter wilayah Indonesia dengan fitur cascading dan local storage. Saya belajar banyak tentang cara merancang antarmuka pengguna yang responsif dan mudah digunakan.
+
+Untuk saya, hal yang paling penting dalam proyek ini adalah:
+1. **Kepastian Persyaratan**: Memahami dengan jelas apa yang diharapkan dari aplikasi sebelum memulai coding
+2. **Struktur Data**: Menyusun data wilayah yang terstruktur dan mudah diakses
+3. **User Experience**: Membuat filter yang intuitif dan memberikan feedback yang jelas kepada pengguna
+4. **Testing**: Memastikan aplikasi bekerja dengan benar di berbagai perangkat dan browser
+
+Saya merasa puas dengan hasil yang di capai, tetapi juga sadar bahwa selalu ada ruang untuk perbaikan. Saya akan terus belajar dan meningkatkan keterampilan frontend saya untuk proyek-proyek selanjutnya.
+
 ## Author
 
 Fauzan Ahnaf
